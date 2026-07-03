@@ -18,6 +18,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Array
 |  |
 | ------- |
+| [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -68,4 +69,20 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
+## Depth-First Search
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
+## Union-Find
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
+## Matrix
+|  |
+| ------- |
+| [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
