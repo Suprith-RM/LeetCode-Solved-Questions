@@ -1,4 +1,13 @@
 class Solution {
+    void dfs(vector<vector<pair<int,int>>> &graph, int node, vector<bool> &vis, int &ans){
+        vis[node] = true;
+        for(auto [next, wt]: graph[node]){
+            ans = min(ans, wt);
+            if(!vis[next]){
+                dfs(graph, next, vis, ans);
+            }
+        }
+    }
 public:
     int minScore(int n, vector<vector<int>>& roads) {
         vector<vector<pair<int,int>>> graph(n + 1);
@@ -9,25 +18,9 @@ public:
             graph[u].push_back({ v, wt });
             graph[v].push_back({ u, wt });
         }
-        vector<int> dist(n+1, INT_MAX);
-        dist[1] = 0;
-        priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
-        pq.push({ 0, 1 });
+        vector<bool> vis(n+1, false);
         int ans = INT_MAX;
-        while(!pq.empty()){
-            auto [wt , u] = pq.top();
-            pq.pop();
-            if(dist[u] < wt) continue;
-            for(auto &neighbour : graph[u]){
-                int v = neighbour.first;
-                int w = neighbour.second;
-                ans = min(w, ans);
-                if(dist[v] > dist[u] + w){
-                    dist[v] = dist[u] + w;
-                    pq.push({ dist[v], v});
-                }
-            }
-        }
+        dfs(graph, 1, vis, ans);
         return ans;
     }
 };
