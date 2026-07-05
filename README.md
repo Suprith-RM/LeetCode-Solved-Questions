@@ -21,6 +21,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Array
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
@@ -40,14 +41,17 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting
 |  |
@@ -61,6 +65,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -133,4 +138,12 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
