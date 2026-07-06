@@ -21,6 +21,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
@@ -140,6 +141,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -159,6 +161,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
