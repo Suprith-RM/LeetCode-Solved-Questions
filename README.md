@@ -35,6 +35,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0221-maximal-square](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
@@ -125,6 +126,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
@@ -132,6 +134,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -150,6 +153,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0036-valid-sudoku](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0221-maximal-square) |
+| [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
