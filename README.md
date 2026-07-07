@@ -192,4 +192,12 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
