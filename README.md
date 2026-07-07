@@ -150,6 +150,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -171,10 +172,19 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
