@@ -9,6 +9,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
 |  |
 | ------- |
