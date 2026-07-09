@@ -52,6 +52,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1584-min-cost-to-connect-all-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -63,6 +64,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -94,6 +96,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -112,6 +115,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -158,6 +162,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
