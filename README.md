@@ -64,6 +64,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -141,6 +142,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
@@ -153,6 +155,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
 |  |
@@ -262,4 +265,12 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Tree
+|  |
+| ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Binary Tree
+|  |
+| ------- |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
