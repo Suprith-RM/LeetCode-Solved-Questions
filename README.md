@@ -115,6 +115,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0547-number-of-provinces](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -122,6 +123,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
@@ -143,6 +145,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0547-number-of-provinces](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -156,6 +159,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0547-number-of-provinces](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
