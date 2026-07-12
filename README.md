@@ -290,4 +290,8 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
