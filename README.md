@@ -43,6 +43,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
@@ -108,6 +109,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
