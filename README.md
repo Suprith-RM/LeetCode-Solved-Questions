@@ -203,6 +203,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1291-sequential-digits) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 ## Stack
 |  |
