@@ -137,6 +137,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -154,11 +155,13 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
@@ -172,6 +175,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0547-number-of-provinces](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
@@ -190,6 +194,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0547-number-of-provinces](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
