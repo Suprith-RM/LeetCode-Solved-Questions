@@ -9,6 +9,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0335-self-crossing](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -67,6 +68,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1514-path-with-maximum-probability](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2718-sum-of-matrix-after-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2718-sum-of-matrix-after-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -346,6 +348,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search Tree
