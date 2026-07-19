@@ -23,6 +23,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -257,6 +258,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Indexed Tree
@@ -281,11 +283,13 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
 | ------- |
