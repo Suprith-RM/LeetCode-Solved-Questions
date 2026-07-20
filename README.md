@@ -55,6 +55,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0260-single-number-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0335-self-crossing](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
@@ -388,6 +389,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0260-single-number-iii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Quickselect
