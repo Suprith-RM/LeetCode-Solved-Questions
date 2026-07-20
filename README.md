@@ -51,6 +51,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0198-house-robber](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -103,6 +104,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -169,6 +171,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -280,6 +283,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1288-remove-covered-intervals](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -378,4 +382,8 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
