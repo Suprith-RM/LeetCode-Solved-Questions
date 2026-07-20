@@ -43,6 +43,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0036-valid-sudoku](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
@@ -360,6 +361,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0039-combination-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
