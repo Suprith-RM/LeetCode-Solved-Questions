@@ -47,6 +47,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
@@ -386,6 +387,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
+| [0137-single-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Quickselect
