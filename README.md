@@ -10,6 +10,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -87,6 +88,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2718-sum-of-matrix-after-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2718-sum-of-matrix-after-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
