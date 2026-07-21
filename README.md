@@ -25,6 +25,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -36,6 +37,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1260-shift-2d-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
@@ -281,6 +283,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
+| [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
