@@ -8,6 +8,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0335-self-crossing](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -75,6 +76,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -356,6 +358,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
