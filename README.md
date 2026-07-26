@@ -256,6 +256,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1254-number-of-closed-islands) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -283,6 +284,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1129-shortest-path-with-alternating-colors](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1254-number-of-closed-islands) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Union-Find
@@ -439,6 +441,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -446,6 +449,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
