@@ -59,6 +59,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0057-insert-interval](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
@@ -184,6 +185,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
