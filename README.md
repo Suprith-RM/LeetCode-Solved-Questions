@@ -258,6 +258,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
@@ -461,6 +462,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -470,6 +472,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
