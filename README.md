@@ -15,6 +15,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -34,6 +35,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
@@ -404,6 +406,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
 | ------- |
