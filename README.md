@@ -109,6 +109,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1514-path-with-maximum-probability](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1817-finding-the-users-active-minutes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1817-finding-the-users-active-minutes) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -142,6 +143,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0992-subarrays-with-k-different-integers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1817-finding-the-users-active-minutes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1817-finding-the-users-active-minutes) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2364-count-number-of-bad-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
