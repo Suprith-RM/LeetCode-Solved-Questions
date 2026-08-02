@@ -135,6 +135,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0041-first-missing-positive](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
+| [0133-clone-graph](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0347-top-k-frequent-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -226,6 +227,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -273,6 +275,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
@@ -296,6 +299,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0133-clone-graph](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
