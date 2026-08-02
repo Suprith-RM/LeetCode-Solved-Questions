@@ -1,44 +1,33 @@
 class Solution {
-    void generate_subsets(vector<string>& words, vector<vector<string>>& subsets, vector<string>& temp, int idx){
+    void check_subsets(vector<string>& words, vector<int>& score, vector<int>& freq, int& scr, int idx, int currScore){
         if(idx >= words.size()){
-            subsets.push_back(temp);
+            scr = max(currScore, scr);
             return;
         }
-        // include
-        temp.push_back(words[idx]);
-        generate_subsets(words, subsets, temp, idx+1);
-        temp.pop_back();
-        // exclusion
-        generate_subsets(words, subsets, temp, idx+1);
-    }
-    bool valid(vector<string>& subset, vector<int> freq, vector<int>& score, int& scr){
-        for(auto& word: subset){
-            for(auto& letter: word){
-                if(freq[letter-'a'] == 0){
-                    return false;
-                }
-                freq[letter-'a']--;
-                scr += score[letter-'a'];
-            }
+        check_subsets(words, score, freq, scr, idx + 1, currScore);
+
+        int wordScore = 0;
+        bool possible = true;
+        for(char letter: words[idx]){
+            if(freq[letter-'a'] == 0) 
+                possible = false;
+            freq[letter-'a']--;
+            wordScore += score[letter-'a'];
         }
-        return true;
+        if(possible) 
+            check_subsets(words, score, freq, scr, idx + 1, currScore + wordScore);
+        for (char c : words[idx]) {
+            freq[c - 'a']++;
+        }
     }
 public:
     int maxScoreWords(vector<string>& words, vector<char>& letters, vector<int>& score) {
-        vector<vector<string>> subsets;
-        vector<string> temp;
-        generate_subsets( words, subsets, temp, 0);
         vector<int> freq(26, 0);
         for(char letter: letters){
             freq[letter-'a']++;
         }
-        int ans = 0;
-        for(auto& subset: subsets){
-            int scr = 0;
-            if(valid(subset, freq, score, scr)){
-                ans = max(ans, scr);
-            }
-        }
-        return ans;
+        int scr = 0;
+        check_subsets(words, score, freq, scr, 0, 0);
+        return scr;
     }
 };
