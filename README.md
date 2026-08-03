@@ -26,6 +26,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
+| [0257-binary-tree-paths](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
@@ -286,6 +287,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0130-surrounded-regions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0200-number-of-islands) |
+| [0257-binary-tree-paths](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0513-find-bottom-left-tree-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
@@ -502,6 +504,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -516,6 +519,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0257-binary-tree-paths](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -528,6 +532,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0039-combination-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Number Theory
 |  |
