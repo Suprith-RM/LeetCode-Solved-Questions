@@ -130,6 +130,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
+| [3731-find-missing-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -164,6 +165,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2718-sum-of-matrix-after-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2718-sum-of-matrix-after-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
+| [3731-find-missing-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -416,6 +418,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
