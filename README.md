@@ -24,6 +24,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
@@ -63,6 +64,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0036-valid-sudoku](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
@@ -140,6 +142,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0036-valid-sudoku](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
@@ -417,6 +420,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
