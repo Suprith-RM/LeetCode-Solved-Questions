@@ -257,6 +257,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3310-remove-methods-from-project) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -318,6 +319,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
