@@ -65,6 +65,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0036-valid-sudoku](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0041-first-missing-positive) |
+| [0047-permutations-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0059-spiral-matrix-ii) |
@@ -428,6 +429,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0295-find-median-from-data-stream) |
@@ -572,6 +574,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
+| [0047-permutations-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0140-word-break-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
