@@ -17,6 +17,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -43,6 +44,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -637,4 +639,12 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
