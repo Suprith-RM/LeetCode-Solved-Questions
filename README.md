@@ -429,6 +429,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -466,6 +467,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -498,12 +500,14 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0725-split-linked-list-in-parts) |
 | [1669-merge-in-between-linked-lists](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1669-merge-in-between-linked-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
