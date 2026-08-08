@@ -329,6 +329,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -558,6 +559,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -577,6 +579,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2236-root-equals-sum-of-children) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
