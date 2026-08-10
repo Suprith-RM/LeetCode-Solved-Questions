@@ -110,6 +110,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0746-min-cost-climbing-stairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -456,6 +457,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -484,6 +486,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
+| [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -550,6 +553,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
@@ -675,4 +679,8 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
