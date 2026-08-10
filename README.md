@@ -82,6 +82,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -478,6 +479,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
