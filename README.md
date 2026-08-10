@@ -63,6 +63,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
+| [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3819-rotate-non-negative-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -140,6 +141,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2718-sum-of-matrix-after-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2718-sum-of-matrix-after-queries) |
+| [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
@@ -433,6 +435,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -455,6 +458,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1288-remove-covered-intervals](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
