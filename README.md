@@ -141,6 +141,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1817-finding-the-users-active-minutes) |
+| [1901-find-a-peak-element-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -252,6 +253,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1901-find-a-peak-element-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3488-closest-equal-element-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -424,6 +426,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1254-number-of-closed-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1901-find-a-peak-element-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 ## Minimum Spanning Tree
 |  |
