@@ -138,6 +138,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1288-remove-covered-intervals](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -193,6 +194,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1386-cinema-seat-allocation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -528,6 +530,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
@@ -684,6 +687,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1386-cinema-seat-allocation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Quickselect
