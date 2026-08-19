@@ -12,6 +12,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0877-stone-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -288,6 +289,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1162-as-far-from-land-as-possible](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -731,4 +733,8 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
