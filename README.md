@@ -363,6 +363,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0513-find-bottom-left-tree-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
@@ -399,6 +400,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0513-find-bottom-left-tree-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0547-number-of-provinces) |
+| [0623-add-one-row-to-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
@@ -634,6 +636,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0814-binary-tree-pruning) |
@@ -661,6 +664,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0623-add-one-row-to-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0814-binary-tree-pruning](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0814-binary-tree-pruning) |
