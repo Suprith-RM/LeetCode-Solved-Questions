@@ -367,6 +367,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0743-network-delay-time](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
+| [0814-binary-tree-pruning](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -630,6 +631,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0543-diameter-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
@@ -654,6 +656,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0543-diameter-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0814-binary-tree-pruning](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0814-binary-tree-pruning) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
