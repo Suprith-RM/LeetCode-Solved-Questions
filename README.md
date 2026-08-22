@@ -196,6 +196,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0992-subarrays-with-k-different-integers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -375,6 +376,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1254-number-of-closed-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1254-number-of-closed-islands) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -415,6 +417,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1129-shortest-path-with-alternating-colors](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1162-as-far-from-land-as-possible](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1254-number-of-closed-islands) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -552,6 +555,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
 | [0901-online-stock-span](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -643,6 +647,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -671,6 +676,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
