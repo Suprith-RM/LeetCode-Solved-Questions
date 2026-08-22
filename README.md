@@ -132,6 +132,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1004-max-consecutive-ones-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1162-as-far-from-land-as-possible](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1254-number-of-closed-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1254-number-of-closed-islands) |
@@ -193,6 +194,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0904-fruit-into-baskets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -367,6 +369,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0802-find-eventual-safe-states](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1254-number-of-closed-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1254-number-of-closed-islands) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -629,6 +632,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0662-maximum-width-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -652,6 +656,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0662-maximum-width-of-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
