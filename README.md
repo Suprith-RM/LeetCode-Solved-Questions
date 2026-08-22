@@ -349,6 +349,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0099-recover-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -385,6 +386,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0130-surrounded-regions) |
@@ -624,6 +626,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -650,6 +653,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
