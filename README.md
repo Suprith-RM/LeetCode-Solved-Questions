@@ -15,6 +15,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
+| [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -49,6 +50,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -548,6 +550,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
@@ -757,6 +760,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
 ## Minimax
 |  |
