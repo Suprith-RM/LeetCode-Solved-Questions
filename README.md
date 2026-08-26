@@ -33,6 +33,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
@@ -285,6 +286,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
@@ -586,6 +588,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0143-reorder-list) |
