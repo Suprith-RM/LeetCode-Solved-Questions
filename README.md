@@ -46,6 +46,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0424-longest-repeating-character-replacement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
+| [0784-letter-case-permutation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -714,6 +715,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0140-word-break-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
+| [0784-letter-case-permutation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0784-letter-case-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Number Theory
 |  |
@@ -734,6 +736,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0137-single-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0260-single-number-iii) |
 | [0526-beautiful-arrangement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
+| [0784-letter-case-permutation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0784-letter-case-permutation) |
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
