@@ -167,6 +167,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2364-count-number-of-bad-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2718-sum-of-matrix-after-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2718-sum-of-matrix-after-queries) |
 | [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3488-closest-equal-element-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3488-closest-equal-element-queries) |
@@ -445,6 +446,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1254-number-of-closed-islands](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1254-number-of-closed-islands) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
@@ -529,6 +531,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3536-maximum-product-of-two-digits) |
