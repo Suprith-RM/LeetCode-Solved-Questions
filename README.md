@@ -110,6 +110,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0239-sliding-window-maximum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0289-game-of-life) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
@@ -280,6 +281,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -633,6 +635,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0143-reorder-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
@@ -738,6 +741,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0526-beautiful-arrangement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0784-letter-case-permutation) |
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
@@ -798,4 +802,12 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
