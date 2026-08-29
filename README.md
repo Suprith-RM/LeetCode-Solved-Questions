@@ -46,6 +46,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0424-longest-repeating-character-replacement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -201,6 +202,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -255,6 +257,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -349,6 +352,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0743-network-delay-time) |
+| [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1514-path-with-maximum-probability) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
@@ -527,6 +531,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
@@ -563,6 +568,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
 | [0738-monotone-increasing-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0738-monotone-increasing-digits) |
+| [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
