@@ -136,6 +136,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0904-fruit-into-baskets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0930-binary-subarrays-with-sum) |
+| [0948-bag-of-tokens](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0948-bag-of-tokens) |
 | [0978-longest-turbulent-subarray](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
@@ -537,6 +538,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0948-bag-of-tokens) |
 | [1288-remove-covered-intervals](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -575,6 +577,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
@@ -656,6 +659,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
+| [0948-bag-of-tokens](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0948-bag-of-tokens) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
