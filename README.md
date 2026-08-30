@@ -36,6 +36,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0010-regular-expression-matching](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
@@ -735,6 +736,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0047-permutations-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0078-subsets) |
+| [0093-restore-ip-addresses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0257-binary-tree-paths) |
