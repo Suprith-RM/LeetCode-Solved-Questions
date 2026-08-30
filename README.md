@@ -60,6 +60,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -319,6 +320,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1301-number-of-paths-with-max-score](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -580,6 +582,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Design
@@ -655,6 +658,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Geometry
