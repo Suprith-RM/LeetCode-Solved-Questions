@@ -618,6 +618,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0725-split-linked-list-in-parts) |
 | [1669-merge-in-between-linked-lists](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1669-merge-in-between-linked-lists) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
