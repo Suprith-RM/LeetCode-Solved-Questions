@@ -172,6 +172,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -290,6 +291,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -333,6 +335,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1301-number-of-paths-with-max-score](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2100-find-good-days-to-rob-the-bank](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
