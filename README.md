@@ -130,6 +130,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0665-non-decreasing-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0665-non-decreasing-array) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
