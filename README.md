@@ -177,6 +177,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
+| [2256-minimum-average-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2256-minimum-average-difference) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
@@ -296,6 +297,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1004-max-consecutive-ones-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2256-minimum-average-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2256-minimum-average-difference) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
