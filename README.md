@@ -91,6 +91,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0041-first-missing-positive) |
@@ -552,6 +553,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -681,6 +683,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0016-3sum-closest) |
 | [0143-reorder-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0287-find-the-duplicate-number) |
