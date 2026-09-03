@@ -95,6 +95,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0036-valid-sudoku](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0057-insert-interval) |
@@ -325,6 +326,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
+| [0045-jump-game-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
@@ -595,6 +597,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
