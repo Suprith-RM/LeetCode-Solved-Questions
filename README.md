@@ -6,6 +6,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
 | [0335-self-crossing](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -219,6 +220,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0140-word-break-ii) |
+| [0264-ugly-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -338,6 +340,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0198-house-robber](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0221-maximal-square) |
+| [0264-ugly-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0322-coin-change) |
 | [0526-beautiful-arrangement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
@@ -385,6 +388,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0023-merge-k-sorted-lists](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
