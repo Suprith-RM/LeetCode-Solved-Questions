@@ -22,6 +22,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -556,6 +557,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -659,6 +661,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
