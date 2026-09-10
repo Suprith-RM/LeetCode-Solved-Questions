@@ -445,6 +445,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -755,6 +756,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -784,6 +786,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1325-delete-leaves-with-a-given-value](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
