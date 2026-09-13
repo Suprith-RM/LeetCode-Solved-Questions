@@ -143,6 +143,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0845-longest-mountain-in-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0845-longest-mountain-in-array) |
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
@@ -515,6 +516,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0835-image-overlap) |
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0994-rotting-oranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1020-number-of-enclaves) |
