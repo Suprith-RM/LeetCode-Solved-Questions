@@ -78,6 +78,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3913-sort-vowels-by-frequency](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3913-sort-vowels-by-frequency) |
 ## Simulation
 |  |
 | ------- |
@@ -303,6 +304,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3913-sort-vowels-by-frequency](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3913-sort-vowels-by-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -599,6 +601,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3536-maximum-product-of-two-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3913-sort-vowels-by-frequency](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3913-sort-vowels-by-frequency) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Monotonic Stack
 |  |
