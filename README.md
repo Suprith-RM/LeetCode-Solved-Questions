@@ -15,6 +15,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0877-stone-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
@@ -313,6 +314,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0974-subarray-sums-divisible-by-k](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2256-minimum-average-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2256-minimum-average-difference) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -360,6 +362,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1162-as-far-from-land-as-possible](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1162-as-far-from-land-as-possible) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1301-number-of-paths-with-max-score](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -891,6 +894,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
 ## Pigeonhole Principle
 |  |
