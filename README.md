@@ -67,6 +67,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
+| [1980-find-unique-binary-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -186,6 +187,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1901-find-a-peak-element-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1980-find-unique-binary-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -253,6 +255,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1817-finding-the-users-active-minutes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1817-finding-the-users-active-minutes) |
+| [1980-find-unique-binary-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2364-count-number-of-bad-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -816,6 +819,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0526-beautiful-arrangement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0784-letter-case-permutation) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1980-find-unique-binary-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
 ## Number Theory
 |  |
 | ------- |
