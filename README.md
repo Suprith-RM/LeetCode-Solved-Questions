@@ -14,6 +14,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0836-rectangle-overlap](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1641-count-sorted-vowel-strings) |
@@ -753,6 +754,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0335-self-crossing](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0836-rectangle-overlap](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Tree
 |  |
 | ------- |
