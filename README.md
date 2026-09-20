@@ -79,6 +79,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3498-reverse-degree-of-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
@@ -99,6 +100,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
 | [3324-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3324-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3498-reverse-degree-of-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3819-rotate-non-negative-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3819-rotate-non-negative-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
