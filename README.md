@@ -9,6 +9,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0264-ugly-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
 | [0335-self-crossing](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0738-monotone-increasing-digits) |
 | [0836-rectangle-overlap](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
@@ -576,6 +577,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0316-remove-duplicate-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
@@ -690,6 +692,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0725-split-linked-list-in-parts) |
 | [1669-merge-in-between-linked-lists](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
