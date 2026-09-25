@@ -202,6 +202,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2256-minimum-average-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2256-minimum-average-difference) |
 | [2295-replace-elements-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -427,6 +428,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1514-path-with-maximum-probability) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -514,6 +516,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3310-remove-methods-from-project) |
@@ -556,6 +559,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1301-number-of-paths-with-max-score](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -621,6 +625,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
