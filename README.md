@@ -10,6 +10,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0335-self-crossing](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0447-number-of-boomerangs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0738-monotone-increasing-digits) |
 | [0836-rectangle-overlap](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
@@ -144,6 +145,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0335-self-crossing](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0347-top-k-frequent-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0447-number-of-boomerangs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0447-number-of-boomerangs) |
 | [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0517-super-washing-machines](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0517-super-washing-machines) |
 | [0526-beautiful-arrangement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
@@ -246,6 +248,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0447-number-of-boomerangs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0447-number-of-boomerangs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0621-task-scheduler) |
