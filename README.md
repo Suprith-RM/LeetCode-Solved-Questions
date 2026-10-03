@@ -45,6 +45,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0093-restore-ip-addresses) |
@@ -367,6 +368,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -582,6 +584,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0143-reorder-list) |
@@ -960,5 +963,6 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
