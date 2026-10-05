@@ -1,14 +1,17 @@
 class Solution {
 public:
     int scoreOfParentheses(string s) {
-        int ans = 0, bal = 0;
-        for (int i = 0; i < s.length(); ++i) {
-            if (s[i] == '(') {
-                bal++;
-            } else {
-                bal--;
-                if (s[i - 1] == '(') {
-                    ans += 1 << bal;
+        int op = 0, ans = 0, n = s.size(), i = 0;
+        while(i < n){ 
+            if(s[i] == '('){
+                op++;
+                i++;
+            }
+            else{
+                ans += pow(2, op-1);
+                while(i < n && s[i] == ')'){
+                    op--;
+                    i++;
                 }
             }
         }
