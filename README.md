@@ -37,6 +37,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3871-count-commas-in-range-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -231,6 +232,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3731-find-missing-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3819-rotate-non-negative-elements) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -926,12 +928,14 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3227-vowels-game-in-a-string) |
+| [3828-final-element-after-subarray-deletions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3828-final-element-after-subarray-deletions) |
 ## Minimax
 |  |
 | ------- |
