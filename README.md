@@ -65,6 +65,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0784-letter-case-permutation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -599,6 +600,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0856-score-of-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -676,6 +678,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0861-score-after-flipping-matrix](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0861-score-after-flipping-matrix) |
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0948-bag-of-tokens) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -967,5 +970,6 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
