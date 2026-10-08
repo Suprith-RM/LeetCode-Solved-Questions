@@ -204,6 +204,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1817-finding-the-users-active-minutes](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1817-finding-the-users-active-minutes) |
 | [1901-find-a-peak-element-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1975-maximum-matrix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
@@ -571,6 +572,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1301-number-of-paths-with-max-score](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1301-number-of-paths-with-max-score) |
 | [1901-find-a-peak-element-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
+| [1975-maximum-matrix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 ## Minimum Spanning Tree
 |  |
@@ -689,6 +691,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
+| [1975-maximum-matrix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
