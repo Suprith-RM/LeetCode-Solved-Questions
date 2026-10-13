@@ -234,6 +234,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3819-rotate-non-negative-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3819-rotate-non-negative-elements) |
@@ -659,6 +660,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3913-sort-vowels-by-frequency](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3913-sort-vowels-by-frequency) |
@@ -708,6 +710,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Design
 |  |
