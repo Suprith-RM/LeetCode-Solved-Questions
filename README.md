@@ -223,6 +223,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2718-sum-of-matrix-after-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2718-sum-of-matrix-after-queries) |
 | [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -292,6 +293,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [2718-sum-of-matrix-after-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2718-sum-of-matrix-after-queries) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3488-closest-equal-element-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3488-closest-equal-element-queries) |
@@ -316,6 +318,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -627,6 +630,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
