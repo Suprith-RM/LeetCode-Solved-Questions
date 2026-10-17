@@ -219,6 +219,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2256-minimum-average-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2256-minimum-average-difference) |
 | [2295-replace-elements-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2364-count-number-of-bad-pairs) |
 | [2718-sum-of-matrix-after-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2718-sum-of-matrix-after-queries) |
@@ -377,6 +378,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3488-closest-equal-element-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
@@ -452,6 +454,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1514-path-with-maximum-probability) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -662,6 +665,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -713,6 +717,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1975-maximum-matrix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
