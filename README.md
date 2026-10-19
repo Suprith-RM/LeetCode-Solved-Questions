@@ -212,6 +212,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1980-find-unique-binary-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2104-sum-of-subarray-ranges) |
@@ -377,6 +378,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3488-closest-equal-element-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3488-closest-equal-element-queries) |
@@ -663,6 +665,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
