@@ -238,6 +238,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3664-two-letter-card-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3664-two-letter-card-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -933,6 +934,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1386-cinema-seat-allocation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Quickselect
 |  |
 | ------- |
