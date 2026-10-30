@@ -6,6 +6,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 | [0264-ugly-number-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0264-ugly-number-ii) |
 | [0335-self-crossing](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0335-self-crossing) |
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
@@ -372,6 +373,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -1022,4 +1024,8 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1021-remove-outermost-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
