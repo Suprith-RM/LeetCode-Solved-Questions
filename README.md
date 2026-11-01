@@ -12,6 +12,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0415-add-strings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0738-monotone-increasing-digits) |
 | [0836-rectangle-overlap](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0836-rectangle-overlap) |
@@ -157,6 +158,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0347-top-k-frequent-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0447-number-of-boomerangs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0463-island-perimeter) |
 | [0517-super-washing-machines](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0517-super-washing-machines) |
 | [0526-beautiful-arrangement](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0526-beautiful-arrangement) |
