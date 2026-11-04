@@ -53,6 +53,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0010-regular-expression-matching](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0127-word-ladder) |
@@ -626,6 +627,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0143-reorder-list) |
