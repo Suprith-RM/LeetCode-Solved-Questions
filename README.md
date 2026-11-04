@@ -83,6 +83,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
@@ -837,6 +838,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0881-boats-to-save-people](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0948-bag-of-tokens) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1616-split-two-strings-to-make-palindrome](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
