@@ -114,6 +114,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0844-backspace-string-compare](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2295-replace-elements-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
@@ -212,6 +213,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1514-path-with-maximum-probability](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1514-path-with-maximum-probability) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1743-restore-the-array-from-adjacent-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -471,6 +473,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0767-reorganize-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1514-path-with-maximum-probability) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2146-k-highest-ranked-items-within-a-price-range](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2146-k-highest-ranked-items-within-a-price-range) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3620-network-recovery-pathways](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3620-network-recovery-pathways) |
@@ -665,6 +668,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Sorting
 |  |
 | ------- |
