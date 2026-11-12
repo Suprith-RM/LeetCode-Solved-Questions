@@ -245,6 +245,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3488-closest-equal-element-queries](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/3488-closest-equal-element-queries) |
