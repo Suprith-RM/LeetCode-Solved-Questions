@@ -89,6 +89,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1927-sum-game](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1927-sum-game) |
 | [1980-find-unique-binary-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1980-find-unique-binary-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2405-optimal-partition-of-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -118,6 +119,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [1441-build-an-array-with-stack-operations](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/1914-cyclically-rotating-a-grid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2295-replace-elements-in-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/2751-robot-collisions) |
