@@ -352,6 +352,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0023-merge-k-sorted-lists](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -816,6 +817,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0023-merge-k-sorted-lists](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0143-reorder-list](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0143-reorder-list) |
 | [0355-design-twitter](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0355-design-twitter) |
@@ -907,6 +909,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0100-same-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
@@ -940,6 +943,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 | [0100-same-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0113-path-sum-ii) |
@@ -991,6 +995,7 @@ A structured archive of optimized Data Structures &amp; Algorithms solutions, tr
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0099-recover-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suprith-RM/LeetCode-Solved-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Bit Manipulation
